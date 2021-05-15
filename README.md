@@ -1,9 +1,12 @@
-#**ZURI TASK 5**
+# **ZURI TASK 5**
+Crud app with express and mongodb
 
+# GUIDELINES
 
-The project url is (https://user-server-app.herokuapp.com/)
+* The project url is https://user-server-app.herokuapp.com/
+* Repo clone link https://github.com/CyberGA/task_5.git
 
-#API Endpoints
+## **API Endpoints**
  REQUEST  | ENDPOINTS | ACTION | SAMPLE 
  ------------- | ------------- | ------------- | ------------- |
  GET  | ("/")  | Homepage/Landing Page  | https://user-server-app.herokuapp.com/  
